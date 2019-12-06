@@ -1,0 +1,6 @@
+framework module Pods_PracticeWithReasearchKit {
+  umbrella header "Pods-PracticeWithReasearchKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
